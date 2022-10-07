@@ -1,0 +1,98 @@
+.body {
+    padding: 32px;
+    gap: 48px;
+    width: 1280px;
+    height: 994px;
+    
+    background: #2300B1;
+    border-radius: 8px;
+    }
+    /* logoooo */
+    .logo {
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 22px;
+        color: #ED1871;
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+        
+    }
+    h1 {
+        width: 392px;
+height: 48px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 48px;
+/* identical to box height, or 100% */
+
+
+color: #75BDFF;
+
+    }
+    
+    .navi {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content:flex-end;
+    padding: 0px;
+    gap: 48px;
+    color: #FFFFFF;
+    list-style-type: none;
+
+    /* tekst */
+    } p {
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 22px;
+        color: #FFFFFF;
+    }
+    
+    .link1{
+        color:#ED1871;
+    
+    }
+    
+    
+    
+    /* stópka kontener */
+    
+    .divfooter{
+        background-color:#FFFFFF;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 8px 0px;
+        border-radius: 8px;
+        width: 1216px;
+        height: 59.04px;
+        
+    
+    }
+    /* stopka tekst */
+    .pfooter{
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 22px;
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+        color: #2300B1;
+    }
+    
+    
+        
+    
+    
+  
